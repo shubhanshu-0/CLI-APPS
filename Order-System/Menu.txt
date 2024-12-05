@@ -1,0 +1,10 @@
+HOT BEVRAGES
+Cappuccino          ,1.9
+Cafe Latte          ,2.4
+Hot Choclate        ,2.9
+
+COLD BEVRAGES
+Iced Cappuccino     ,4.2
+Iced Latte          ,5.2
+Greek Frappe        ,7.8
+
